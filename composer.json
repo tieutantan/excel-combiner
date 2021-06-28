@@ -1,7 +1,8 @@
 {
     "require": {
         "phpoffice/phpspreadsheet": "^1.17",
-        "phpfastcache/phpfastcache": "^8.0"
+        "phpfastcache/phpfastcache": "^8.0",
+        "bvanhoekelen/performance": "^2.5"
     },
     "require-dev": {
         "symfony/var-dumper": "^5.2"
